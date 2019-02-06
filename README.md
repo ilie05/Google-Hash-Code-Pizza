@@ -2,7 +2,7 @@
 
 Solution score: 935568
 
-Example: 8 \n
+Example: 8
 Small: 35
 Medium: 47926
 Big: 887599
