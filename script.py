@@ -1,7 +1,6 @@
 from tqdm import tqdm
 import numpy as np
 import os
-import matplotlib.pyplot as plt
 
 
 def read_file(file):
